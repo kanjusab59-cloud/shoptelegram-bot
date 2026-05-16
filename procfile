@@ -1,1 +1,1 @@
-worker: python shop.py
+worker: python ./shop.py
